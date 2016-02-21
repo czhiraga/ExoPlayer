@@ -1,0 +1,2 @@
+include 'demo', ':..:ExoPlayer:library'
+project(':..:ExoPlayer:library').projectDir = new File(settingsDir, '../library')
